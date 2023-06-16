@@ -1,0 +1,23 @@
+body{
+	background-image: url("بک T.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.item {
+	width: 280px;
+	height: 280px;
+	margin-top: 1105px;
+	margin-left:77px;
+}
+.ins{
+	padding-left: 185px;
+}
+.box{
+	width: 280px;
+	height: 280px;
+	margin-left:191px;
+	margin-top: -45px;
+}
+.loc{
+	margin-left:10px;
+}
